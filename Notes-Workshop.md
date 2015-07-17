@@ -80,3 +80,13 @@ You should get the exchange rate!
 
 
 Untill next Time Now!!!
+
+
+
+Important Links:   
+-[Json View Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+-[Json View Firefox](https://addons.mozilla.org/en-us/firefox/addon/jsonview/)
+
+Problems
+-[Sachin's Currency Converter](http://the-currency-converter.herokuapp.com/)
+-[SkySports Api](https://github.com/melvin0008/skysportsapi)

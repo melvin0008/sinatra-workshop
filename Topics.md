@@ -1,0 +1,7 @@
+- [ ] Framework
+- [ ] Gem 
+- [ ] Run helloworld
+- [ ] API - GET POST PUT DELETE
+- [ ] JSON
+- [ ] Run program
+- [ ] Problem : Change the current api to Sachins currencyconverterapi and get results
